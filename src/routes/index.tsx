@@ -23,7 +23,7 @@ function App() {
           <p className="text-lg text-gray-400 max-w-3xl mx-auto mb-8">
             Some people hang out on Discord
           </p>
-          <div className="flex flex-col items-center gap-4">
+          <div className="flex flex-col items-center gap-4 mb-6">
             <a
               href="https://discord.gg/bFuyshS"
               target="_blank"
@@ -32,6 +32,11 @@ function App() {
             >
               #nottdzk
             </a>
+          </div>
+          <div className="flex items-center justify-center gap-6">
+            <h1 className="text-sm md:text-sm font-black text-white ">
+              Linkz is the admin now
+            </h1>
           </div>
         </div>
       </section>
